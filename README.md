@@ -41,11 +41,7 @@
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhanu-3333/bhanu-3333/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhanu-3333/bhanu-3333/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bhanu-3333/bhanu-3333/output/pacman-contribution-graph.svg">
-</picture>
+>
 
 ###
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
