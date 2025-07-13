@@ -1,4 +1,3 @@
-
 <h1 align="center">✨ Hi, I'm Udaya Bhanu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Game+Dev+Explorer;Creative+Coder" alt="Typing SVG" />
