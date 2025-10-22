@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hi, I'm Udaya Bhanu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Game+Dev+Explorer;Creative+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer;web developer;mobile+app developer;Creative+Coder" alt="Typing SVG" />
 </div>
 <p><em>Pursuing B.E CSE at <a href="http://www.jec.ac.in">JEC'25</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
@@ -9,16 +9,16 @@
 ```javascript
 const udayaBhanu = {
   pronouns: "she/her",
-  code: ["JavaScript", "HTML", "CSS", "React", "Node.js", "MongoDB"],
-  tools: ["React", "React Native", "Node.js", "Express", "Figma", "Vite", "Leaflet", "Godot"],
-  interests: ["frontend development", "UI/UX design", "game development", "blockchain-based apps"],
+  code: ["JavaScript", "HTML", "CSS", "React", "React Native", "Node.js", "MongoDB", "Python"],
+  tools: ["React", "React Native", "Next.js", "Node.js", "Express", "Figma", "Vite", "Leaflet", "Postman"],
+  interests: ["frontend development", "mobile app development", "UI/UX design", "AI-powered apps", "full-stack development"],
   techCommunities: {
     contributor: "Open Source Projects",
-    learner: "100DaysOfCode",
-    mentor: "UI/UX for Beginners"
+    learner: "#100DaysOfCode"
   },
-  challenge: "Currently doing #100DaysOfCode focused on full-stack development and UI/UX"
+  challenge: "Currently doing #100DaysOfCode focused on full-stack web & mobile development and AI integration"
 };
+
 ```
 
 
