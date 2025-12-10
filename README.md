@@ -91,10 +91,7 @@ const udayaBhanu = {
 
 ## <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="40"> GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanu-3333&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu-3333&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="150"/>
-</div>
+
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=bhanu-3333&theme=discord_old_blurple&hide_border=false" alt="GitHub Streak"/>
