@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend%20Developer;Web%20Developer;Mobile%20App%20Developer;Creative%20Coder" alt="Typing SVG" />
 </div>
 
-<p><em>Pursuing B.E CSE at <a href="http://www.jec.ac.in">JEC'25</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
+<p><em>Pursuing B.E CSE at <a href="http://www.jec.ac.in">JEC'25</a> </em></p>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
